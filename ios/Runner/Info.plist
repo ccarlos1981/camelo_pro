@@ -66,5 +66,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>O Camelo Pro usa a câmera para escanear códigos de barras e tirar fotos dos seus produtos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>O Camelo Pro acessa suas fotos para você escolher imagens dos seus produtos.</string>
 </dict>
 </plist>
